@@ -72,3 +72,7 @@ The current mode (Translate/Rotate) will be displayed on the screen.
 ## Note
 
 The gizmo only works on entities that you have sufficient permissions to manipulate. Make sure you have the correct permissions to move or rotate the entity you are working with.
+
+## credits
+
+[author](https://github.com/DemiAutomatic/object_gizmo)
